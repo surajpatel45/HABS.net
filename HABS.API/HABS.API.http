@@ -1,0 +1,6 @@
+@HABS.API_HostAddress = http://localhost:5276
+
+GET {{HABS.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

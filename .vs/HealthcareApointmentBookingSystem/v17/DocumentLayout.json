@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\surajp\\source\\repos\\.net\\HealthcareApointmentBookingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{829D49AA-FF65-4CC1-92D8-7E6BCDC56E41}|HABS.Services\\HABS.Services.csproj|c:\\users\\surajp\\source\\repos\\.net\\healthcareapointmentbookingsystem\\habs.services\\doctorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829D49AA-FF65-4CC1-92D8-7E6BCDC56E41}|HABS.Services\\HABS.Services.csproj|solutionrelative:habs.services\\doctorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829D49AA-FF65-4CC1-92D8-7E6BCDC56E41}|HABS.Services\\HABS.Services.csproj|c:\\users\\surajp\\source\\repos\\.net\\healthcareapointmentbookingsystem\\habs.services\\interfaces\\iappointmentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829D49AA-FF65-4CC1-92D8-7E6BCDC56E41}|HABS.Services\\HABS.Services.csproj|solutionrelative:habs.services\\interfaces\\iappointmentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D327326-8F5E-4E8A-AA7E-3AF67EF12C8D}|Consumer\\Consumer.csproj|c:\\users\\surajp\\source\\repos\\.net\\healthcareapointmentbookingsystem\\consumer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D327326-8F5E-4E8A-AA7E-3AF67EF12C8D}|Consumer\\Consumer.csproj|solutionrelative:consumer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4C986D-66E8-4F7C-8696-7E0B12230904}|HABS.API\\HABS.API.csproj|c:\\users\\surajp\\source\\repos\\.net\\healthcareapointmentbookingsystem\\habs.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4C986D-66E8-4F7C-8696-7E0B12230904}|HABS.API\\HABS.API.csproj|solutionrelative:habs.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4C986D-66E8-4F7C-8696-7E0B12230904}|HABS.API\\HABS.API.csproj|c:\\users\\surajp\\source\\repos\\.net\\healthcareapointmentbookingsystem\\habs.api\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4C986D-66E8-4F7C-8696-7E0B12230904}|HABS.API\\HABS.API.csproj|solutionrelative:habs.api\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4C986D-66E8-4F7C-8696-7E0B12230904}|HABS.API\\HABS.API.csproj|c:\\users\\surajp\\source\\repos\\.net\\healthcareapointmentbookingsystem\\habs.api\\rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4C986D-66E8-4F7C-8696-7E0B12230904}|HABS.API\\HABS.API.csproj|solutionrelative:habs.api\\rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4C986D-66E8-4F7C-8696-7E0B12230904}|HABS.API\\HABS.API.csproj|c:\\users\\surajp\\source\\repos\\.net\\healthcareapointmentbookingsystem\\habs.api\\rabbitmqproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4C986D-66E8-4F7C-8696-7E0B12230904}|HABS.API\\HABS.API.csproj|solutionrelative:habs.api\\rabbitmqproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829D49AA-FF65-4CC1-92D8-7E6BCDC56E41}|HABS.Services\\HABS.Services.csproj|c:\\users\\surajp\\source\\repos\\.net\\healthcareapointmentbookingsystem\\habs.services\\appointmentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829D49AA-FF65-4CC1-92D8-7E6BCDC56E41}|HABS.Services\\HABS.Services.csproj|solutionrelative:habs.services\\appointmentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4C986D-66E8-4F7C-8696-7E0B12230904}|HABS.API\\HABS.API.csproj|c:\\users\\surajp\\source\\repos\\.net\\healthcareapointmentbookingsystem\\habs.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8C4C986D-66E8-4F7C-8696-7E0B12230904}|HABS.API\\HABS.API.csproj|solutionrelative:habs.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4C986D-66E8-4F7C-8696-7E0B12230904}|HABS.API\\HABS.API.csproj|c:\\users\\surajp\\source\\repos\\.net\\healthcareapointmentbookingsystem\\habs.api\\rabbitmqconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4C986D-66E8-4F7C-8696-7E0B12230904}|HABS.API\\HABS.API.csproj|solutionrelative:habs.api\\rabbitmqconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D327326-8F5E-4E8A-AA7E-3AF67EF12C8D}|Consumer\\Consumer.csproj|c:\\users\\surajp\\source\\repos\\.net\\healthcareapointmentbookingsystem\\consumer\\controllers\\consumercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D327326-8F5E-4E8A-AA7E-3AF67EF12C8D}|Consumer\\Consumer.csproj|solutionrelative:consumer\\controllers\\consumercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:599211478:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoctorServices.cs",
+              "DocumentMoniker": "C:\\Users\\surajp\\source\\repos\\.net\\HealthcareApointmentBookingSystem\\HABS.Services\\DoctorServices.cs",
+              "RelativeDocumentMoniker": "HABS.Services\\DoctorServices.cs",
+              "ToolTip": "C:\\Users\\surajp\\source\\repos\\.net\\HealthcareApointmentBookingSystem\\HABS.Services\\DoctorServices.cs",
+              "RelativeToolTip": "HABS.Services\\DoctorServices.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T03:59:50.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RabbitMQConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\surajp\\source\\repos\\.net\\HealthcareApointmentBookingSystem\\HABS.API\\RabbitMQConsumer.cs",
+              "RelativeDocumentMoniker": "HABS.API\\RabbitMQConsumer.cs",
+              "ToolTip": "C:\\Users\\surajp\\source\\repos\\.net\\HealthcareApointmentBookingSystem\\HABS.API\\RabbitMQConsumer.cs",
+              "RelativeToolTip": "HABS.API\\RabbitMQConsumer.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T12:21:56.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConsumerController.cs",
+              "DocumentMoniker": "C:\\Users\\surajp\\source\\repos\\.net\\HealthcareApointmentBookingSystem\\Consumer\\Controllers\\ConsumerController.cs",
+              "RelativeDocumentMoniker": "Consumer\\Controllers\\ConsumerController.cs",
+              "ToolTip": "C:\\Users\\surajp\\source\\repos\\.net\\HealthcareApointmentBookingSystem\\Consumer\\Controllers\\ConsumerController.cs",
+              "RelativeToolTip": "Consumer\\Controllers\\ConsumerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T12:19:13.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\surajp\\source\\repos\\.net\\HealthcareApointmentBookingSystem\\Consumer\\appsettings.json",
+              "RelativeDocumentMoniker": "Consumer\\appsettings.json",
+              "ToolTip": "C:\\Users\\surajp\\source\\repos\\.net\\HealthcareApointmentBookingSystem\\Consumer\\appsettings.json",
+              "RelativeToolTip": "Consumer\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-11T12:15:11.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAppointmentServices.cs",
+              "DocumentMoniker": "C:\\Users\\surajp\\source\\repos\\.net\\HealthcareApointmentBookingSystem\\HABS.Services\\Interfaces\\IAppointmentServices.cs",
+              "RelativeDocumentMoniker": "HABS.Services\\Interfaces\\IAppointmentServices.cs",
+              "ToolTip": "C:\\Users\\surajp\\source\\repos\\.net\\HealthcareApointmentBookingSystem\\HABS.Services\\Interfaces\\IAppointmentServices.cs",
+              "RelativeToolTip": "HABS.Services\\Interfaces\\IAppointmentServices.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T07:46:13.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\surajp\\source\\repos\\.net\\HealthcareApointmentBookingSystem\\HABS.API\\Program.cs",
+              "RelativeDocumentMoniker": "HABS.API\\Program.cs",
+              "ToolTip": "C:\\Users\\surajp\\source\\repos\\.net\\HealthcareApointmentBookingSystem\\HABS.API\\Program.cs",
+              "RelativeToolTip": "HABS.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T17:11:40.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\surajp\\source\\repos\\.net\\HealthcareApointmentBookingSystem\\HABS.API\\appsettings.json",
+              "RelativeDocumentMoniker": "HABS.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\surajp\\source\\repos\\.net\\HealthcareApointmentBookingSystem\\HABS.API\\appsettings.json",
+              "RelativeToolTip": "HABS.API\\appsettings.json",
+              "ViewState": "AQIAAAIAAAAAAAAAAABRwBQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-11T13:30:21.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppointmentServices.cs",
+              "DocumentMoniker": "C:\\Users\\surajp\\source\\repos\\.net\\HealthcareApointmentBookingSystem\\HABS.Services\\AppointmentServices.cs",
+              "RelativeDocumentMoniker": "HABS.Services\\AppointmentServices.cs",
+              "ToolTip": "C:\\Users\\surajp\\source\\repos\\.net\\HealthcareApointmentBookingSystem\\HABS.Services\\AppointmentServices.cs",
+              "RelativeToolTip": "HABS.Services\\AppointmentServices.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T11:25:03.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\Users\\surajp\\source\\repos\\.net\\HealthcareApointmentBookingSystem\\HABS.API\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "HABS.API\\Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\Users\\surajp\\source\\repos\\.net\\HealthcareApointmentBookingSystem\\HABS.API\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "HABS.API\\Controllers\\AppointmentController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwBEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T05:45:28.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RabbitMQProducer.cs",
+              "DocumentMoniker": "C:\\Users\\surajp\\source\\repos\\.net\\HealthcareApointmentBookingSystem\\HABS.API\\RabbitMQProducer.cs",
+              "RelativeDocumentMoniker": "HABS.API\\RabbitMQProducer.cs",
+              "ToolTip": "C:\\Users\\surajp\\source\\repos\\.net\\HealthcareApointmentBookingSystem\\HABS.API\\RabbitMQProducer.cs",
+              "RelativeToolTip": "HABS.API\\RabbitMQProducer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T05:31:43.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RabbitMQService.cs",
+              "DocumentMoniker": "C:\\Users\\surajp\\source\\repos\\.net\\HealthcareApointmentBookingSystem\\HABS.API\\RabbitMQService.cs",
+              "RelativeDocumentMoniker": "HABS.API\\RabbitMQService.cs",
+              "ToolTip": "C:\\Users\\surajp\\source\\repos\\.net\\HealthcareApointmentBookingSystem\\HABS.API\\RabbitMQService.cs",
+              "RelativeToolTip": "HABS.API\\RabbitMQService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T05:24:16.625Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

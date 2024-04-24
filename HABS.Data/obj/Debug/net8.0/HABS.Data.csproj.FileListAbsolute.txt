@@ -1,0 +1,17 @@
+C:\Users\surajp\source\repos\.net\HealthcareApointmentBookingSystem\HABS.Data\bin\Debug\net8.0\HABS.Data.deps.json
+C:\Users\surajp\source\repos\.net\HealthcareApointmentBookingSystem\HABS.Data\bin\Debug\net8.0\HABS.Data.runtimeconfig.json
+C:\Users\surajp\source\repos\.net\HealthcareApointmentBookingSystem\HABS.Data\bin\Debug\net8.0\HABS.Data.dll
+C:\Users\surajp\source\repos\.net\HealthcareApointmentBookingSystem\HABS.Data\bin\Debug\net8.0\HABS.Data.pdb
+C:\Users\surajp\source\repos\.net\HealthcareApointmentBookingSystem\HABS.Data\bin\Debug\net8.0\HABS.Models.dll
+C:\Users\surajp\source\repos\.net\HealthcareApointmentBookingSystem\HABS.Data\bin\Debug\net8.0\HABS.Models.pdb
+C:\Users\surajp\source\repos\.net\HealthcareApointmentBookingSystem\HABS.Data\obj\Debug\net8.0\HABS.Data.csproj.AssemblyReference.cache
+C:\Users\surajp\source\repos\.net\HealthcareApointmentBookingSystem\HABS.Data\obj\Debug\net8.0\HABS.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\surajp\source\repos\.net\HealthcareApointmentBookingSystem\HABS.Data\obj\Debug\net8.0\HABS.Data.AssemblyInfoInputs.cache
+C:\Users\surajp\source\repos\.net\HealthcareApointmentBookingSystem\HABS.Data\obj\Debug\net8.0\HABS.Data.AssemblyInfo.cs
+C:\Users\surajp\source\repos\.net\HealthcareApointmentBookingSystem\HABS.Data\obj\Debug\net8.0\HABS.Data.csproj.CoreCompileInputs.cache
+C:\Users\surajp\source\repos\.net\HealthcareApointmentBookingSystem\HABS.Data\obj\Debug\net8.0\HABS.Data.csproj.Up2Date
+C:\Users\surajp\source\repos\.net\HealthcareApointmentBookingSystem\HABS.Data\obj\Debug\net8.0\HABS.Data.dll
+C:\Users\surajp\source\repos\.net\HealthcareApointmentBookingSystem\HABS.Data\obj\Debug\net8.0\refint\HABS.Data.dll
+C:\Users\surajp\source\repos\.net\HealthcareApointmentBookingSystem\HABS.Data\obj\Debug\net8.0\HABS.Data.pdb
+C:\Users\surajp\source\repos\.net\HealthcareApointmentBookingSystem\HABS.Data\obj\Debug\net8.0\HABS.Data.genruntimeconfig.cache
+C:\Users\surajp\source\repos\.net\HealthcareApointmentBookingSystem\HABS.Data\obj\Debug\net8.0\ref\HABS.Data.dll

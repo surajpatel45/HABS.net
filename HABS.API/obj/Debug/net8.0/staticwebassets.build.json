@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "V/oCofGLAdg94QiQCKYU2QXnu4rc8op+cHcy6O1StOc=",
+  "Source": "HABS.API",
+  "BasePath": "_content/HABS.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

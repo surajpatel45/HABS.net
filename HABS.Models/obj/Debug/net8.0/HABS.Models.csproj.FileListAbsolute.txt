@@ -1,0 +1,11 @@
+C:\Users\surajp\source\repos\.net\HealthcareApointmentBookingSystem\HABS.Models\bin\Debug\net8.0\HABS.Models.deps.json
+C:\Users\surajp\source\repos\.net\HealthcareApointmentBookingSystem\HABS.Models\bin\Debug\net8.0\HABS.Models.dll
+C:\Users\surajp\source\repos\.net\HealthcareApointmentBookingSystem\HABS.Models\bin\Debug\net8.0\HABS.Models.pdb
+C:\Users\surajp\source\repos\.net\HealthcareApointmentBookingSystem\HABS.Models\obj\Debug\net8.0\HABS.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\surajp\source\repos\.net\HealthcareApointmentBookingSystem\HABS.Models\obj\Debug\net8.0\HABS.Models.AssemblyInfoInputs.cache
+C:\Users\surajp\source\repos\.net\HealthcareApointmentBookingSystem\HABS.Models\obj\Debug\net8.0\HABS.Models.AssemblyInfo.cs
+C:\Users\surajp\source\repos\.net\HealthcareApointmentBookingSystem\HABS.Models\obj\Debug\net8.0\HABS.Models.csproj.CoreCompileInputs.cache
+C:\Users\surajp\source\repos\.net\HealthcareApointmentBookingSystem\HABS.Models\obj\Debug\net8.0\HABS.Models.dll
+C:\Users\surajp\source\repos\.net\HealthcareApointmentBookingSystem\HABS.Models\obj\Debug\net8.0\refint\HABS.Models.dll
+C:\Users\surajp\source\repos\.net\HealthcareApointmentBookingSystem\HABS.Models\obj\Debug\net8.0\HABS.Models.pdb
+C:\Users\surajp\source\repos\.net\HealthcareApointmentBookingSystem\HABS.Models\obj\Debug\net8.0\ref\HABS.Models.dll
